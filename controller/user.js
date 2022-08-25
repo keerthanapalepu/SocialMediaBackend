@@ -1,6 +1,6 @@
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
-import User from '../models/user.js';
+import UserModal from '../models/user.js';
 import mongoose from 'mongoose';
 
 const secret = 'test';
