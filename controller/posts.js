@@ -1,4 +1,4 @@
-import PostMessage from '../models/PostMessage.js';
+import PostMessage from '../models/postMessage.js';
 import mongoose from 'mongoose';
 
 
